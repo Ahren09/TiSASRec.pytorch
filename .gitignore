@@ -2,3 +2,8 @@
 __pycache__/
 *_default/
 *.pickle
+.idea/
+*.pyc
+*.pyo
+*.pth
+*.pt
